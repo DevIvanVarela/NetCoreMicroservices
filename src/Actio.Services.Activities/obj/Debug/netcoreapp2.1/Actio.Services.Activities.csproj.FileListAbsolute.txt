@@ -1,0 +1,17 @@
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.deps.json
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.runtimeconfig.json
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.runtimeconfig.dev.json
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.dll
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.pdb
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csprojAssemblyReference.cache
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorAssemblyInfo.cache
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorAssemblyInfo.cs
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.AssemblyInfo.cs
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorTargetAssemblyInfo.cache
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csproj.CopyComplete
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.dll
+C:\Projetos\NetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.pdb
